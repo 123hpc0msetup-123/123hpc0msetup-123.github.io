@@ -2,7 +2,7 @@
 
 [![123.hp.com/setup](tech h.png)](http://123pri.s3-website-us-west-1.amazonaws.com)
 
-Here we provide technical assistance for **123.hp.com/setup**, driver download, wireless setup, USB setup, and solutions for your HP printer related issues 
+Here we provide technical assistance for **123.hp.com/setup**, driver download, wireless setup, USB setup, and solutions for your HP printer related issues .
 
 
 ## 123.hp.com/setup And Quick Installation
@@ -26,8 +26,8 @@ Open **123.hp.com/setup** and download the relevant drivers for your HP printer 
 ## 123 HP PRINTER SETUP USING 123.hp.com/setup
 
 1. Firstly, turn on your wireless printer and use the touch screen display to setup HP printer in a wireless manner.
-2. Now from the touch screen, press the ‘setup’ button and select ‘network’ option from the menu.
-3. Thereafter select wireless network setup wizard from the ‘network’ menu. 
+2. Now from the touch screen, press the **‘setup’** button and select ‘network’ option from the menu.
+3. Thereafter **select wireless network setup wizard** from the ‘network’ menu. 
 4. Now your HP printer will search for the wireless routers available in the range. 
 5. Select your network from the list.
 6. Enter the **WEP/WPA passphrase** for the network and then press ‘done’. 
@@ -37,13 +37,13 @@ Open **123.hp.com/setup** and download the relevant drivers for your HP printer 
 
 
 
-## Connect my HP Printer toMAC through **"123.hp.com/setup"** 
+## Connect my HP Printer to MAC through **"123.hp.com/setup"** 
 
 To connect Mac computer to wireless HP printer follow the below steps:
 
-1. Firstly ensure that the printer is on.
+1. Firstly ensure that the **printer is on**.
 2. Then connect HP printer with a wireless router (we have mentioned the steps for the same previously)
-3. Download your printer’s driver from HP’s website “123.hp.com/setup” for MAC OS.
+3. Download your printer’s driver from HP’s website **“123.hp.com/setup”** for MAC OS.
 4. After the driver is downloaded, double click on it to **begin installation** process.
 5. After the installation, continue to the next step of adding on the printer in the MAC
 6. Go to the Apple menu and choose **“System and Preference”**.
