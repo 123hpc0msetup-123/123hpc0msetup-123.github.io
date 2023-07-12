@@ -46,7 +46,7 @@ How to Download 123.hp.com/setup
 
 
 
-1. Go to **`123.hp.com/setup<https://123hpc0msetup-123.readthedocs.io/>`_p**.       
+1. Go to `123.hp.com/setup <https://123hpc0msetup-123.readthedocs.io/>`_.       
 2. Visit HP Easy Start Download page.
 3. Now follow all prompts on your screen then click **'download'** . 
 
@@ -66,7 +66,7 @@ Steps to install HP Easy Start Utility Program
 Getting connected to a device via 123.hp.com/setup
 ***************************************************
 
-1. Go to **`123.hp.com/setup<https://123hpc0msetup-123.readthedocs.io/>`_**.
+1. Go to `123.hp.com/setup <https://123hpc0msetup-123.readthedocs.io/>`_.
 2. Now you need to download and get  HP Print Service Plugin installed in your computer .
 3. Select Wi-Fi direct printer name.
 4. Select the printer model and add it .
