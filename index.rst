@@ -21,10 +21,10 @@ Getting started with 123.hp.com/setup
 **************************************
 
 Below mentioned points should be kept in mind to start with **123.hp.com/setup**
-1.Printer should be ON
-2.Printer should have good internet connection .
+1. Printer should be ON
+2. Printer should have good internet connection .
 3. If WIfi connection is given then it must be carried with correct details.
-4.Updated operating system should be maintained .
+4. Updated operating system should be maintained .
 
 
 ************************************
@@ -46,31 +46,31 @@ How to Download 123.hp.com/setup
 
 
 
-1.Go to **`123.hp.com/setup<https://123hpc0msetup-123.readthedocs.io/>`_p**.       
-2.Visit HP Easy Start Download page.
-3.Now follow all prompts on your screen then click **'download'** . 
+1. Go to **`123.hp.com/setup<https://123hpc0msetup-123.readthedocs.io/>`_p**.       
+2. Visit HP Easy Start Download page.
+3. Now follow all prompts on your screen then click **'download'** . 
 
 
 ***********************************************
 Steps to install HP Easy Start Utility Program
 ***********************************************
 
-1.Download app from **123.hp.com/setup**
-2.Go to download location and search Easy Start File.
-3.Double tap that file .
-4.New screen appears and **'Install'**.
-5.Now configure Softare usage according to operating system .
+1. Download app from **123.hp.com/setup**
+2. Go to download location and search Easy Start File.
+3. Double tap that file .
+4. New screen appears and **'Install'**.
+5. Now configure Softare usage according to operating system .
 
 
 ***************************************************
 Getting connected to a device via 123.hp.com/setup
 ***************************************************
 
-1.Go to **`123.hp.com/setup<https://123hpc0msetup-123.readthedocs.io/>`_**.
-2.Now you need to download and get  HP Print Service Plugin installed in your computer .
-3.Select Wi-Fi direct printer name.
-4.Select the printer model and add it .
-5.Now your app is ready to use .
+1. Go to **`123.hp.com/setup<https://123hpc0msetup-123.readthedocs.io/>`_**.
+2. Now you need to download and get  HP Print Service Plugin installed in your computer .
+3. Select Wi-Fi direct printer name.
+4. Select the printer model and add it .
+5. Now your app is ready to use .
 
 
 
