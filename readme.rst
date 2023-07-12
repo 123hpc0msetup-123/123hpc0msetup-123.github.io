@@ -14,7 +14,7 @@
 ****************
 
 
-**`123.hp.com/setup <https://123hpc0msetup-123.readthedocs.io/>`_** is one stop option for exploring and using features viz. installlation of printer software and driver , creation of account , catridge installation , etc . **123.hp.com/setup** facilitates connection of printer via USB Cables or wireless method . It is an easy tool and great weapon for troubleshooting on all platforms - Windows , Mac or Smartphones. Moreover , your work becomes easy to do and in-hand process is just amazing . 
+** `123.hp.com/setup <https://123hpc0msetup-123.readthedocs.io/>`_ ** is one stop option for exploring and using features viz. installlation of printer software and driver , creation of account , catridge installation , etc . **123.hp.com/setup** facilitates connection of printer via USB Cables or wireless method . It is an easy tool and great weapon for troubleshooting on all platforms - Windows , Mac or Smartphones. Moreover , your work becomes easy to do and in-hand process is just amazing . 
 
 **************************************
 Getting started with 123.hp.com/setup
