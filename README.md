@@ -2,12 +2,12 @@
 
 [![123.hp.com/setup](tech-h.png)](http://123pri.s3-website-us-west-1.amazonaws.com)
 
-Here we provide technical assistance for **123.hp.com/setup**, driver download, wireless setup, USB setup, and solutions for your HP printer related issues .
+Here we provide technical assistance for **[123.hp.com/setup](https://123hpc0msetup-123.github.io/)**, driver download, wireless setup, USB setup, and solutions for your HP printer related issues .
 
 
 ## 123.hp.com/setup And Quick Installation
 
-Open **123.hp.com/setup** and download the relevant drivers for your HP printer (123.hp.com/setup Envy, Officejet, Officejet Pro, Deskjet, Laserjet). Read the fast guide to setting up and setting up an HP printer over a wireless or USB network connection with step-by-step instructions. **123.hp.com/setup** Support Quick and quick. To set up your printer, you'll need to access and register your device by setting up an account on this HP printer setup site to troubleshoot issues with your extender device.
+Open **123.hp.com/setup** and download the relevant drivers for your HP printer (123.hp.com/setup Envy, Officejet, Officejet Pro, Deskjet, Laserjet). Read the fast guide to setting up and setting up an HP printer over a wireless or USB network connection with step-by-step instructions. **[123.hp.com/setup](https://123hpc0msetup-123.github.io/)** Support Quick and quick. To set up your printer, you'll need to access and register your device by setting up an account on this HP printer setup site to troubleshoot issues with your extender device.
 
 
 
@@ -33,7 +33,7 @@ Open **123.hp.com/setup** and download the relevant drivers for your HP printer 
 6. Enter the **WEP/WPA passphrase** for the network and then press ‘done’. 
 7. Now press **‘OK’** to confirm the settings. Press **‘OK’ again** to print the wireless test report.
 8. Now your HP printer has been setup on your wireless network.
-9. Lastly download and install the printer driver from **123.hp.com/setup** page to finish the process.
+9. Lastly download and install the printer driver from **[123.hp.com/setup](https://123hpc0msetup-123.github.io/)** page to finish the process.
 
 
 
@@ -43,7 +43,7 @@ To connect Mac computer to wireless HP printer follow the below steps:
 
 1. Firstly ensure that the **printer is on**.
 2. Then connect HP printer with a wireless router (we have mentioned the steps for the same previously)
-3. Download your printer’s driver from HP’s website **“123.hp.com/setup”** for MAC OS.
+3. Download your printer’s driver from HP’s website **“[123.hp.com/setup](https://123hpc0msetup-123.github.io/)”** for MAC OS.
 4. After the driver is downloaded, double click on it to **begin installation** process.
 5. After the installation, continue to the next step of adding on the printer in the MAC
 6. Go to the Apple menu and choose **“System and Preference”**.
