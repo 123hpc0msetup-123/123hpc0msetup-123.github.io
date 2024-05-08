@@ -1,6 +1,6 @@
 # 123.HP.COM/SETUP
 
-[![123.hp.com/setup](tech-h.png)](http://123pri.s3-website-us-west-1.amazonaws.com)
+[![123.hp.com/setup](tech-h.png)](https://hp.printredir.com)
 
 Here we provide technical assistance for **[123.hp.com/setup](https://123hpc0msetup-123.github.io/)**, driver download, wireless setup, USB setup, and solutions for your HP printer related issues .
 
